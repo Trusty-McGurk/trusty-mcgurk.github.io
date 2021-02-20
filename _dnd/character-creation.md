@@ -9,3 +9,4 @@ description: Quick character creation guide.
 3. Roll your class' hit die. (1d8+1 for fighters, 1d6 for everyone else)
 4. If you're a magic user, choose a first level spell from [here](http://ddo.immersiveink.com/dd.html#1st-level-magic-user-spells).
 5. Roll for equipment on [this](/assets/starting-equip.pdf) table.
+6. Name your character.
