@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{{ content }}
+{% assign contentwonl = content | strip_newlines %} {% unless contentwonl == ""  %} <br /> {% endunless %} <!-- add line break if there is any content -->
+
+{%- if site.dnd.size > 0 -%}
+<div class="dnd_list">
+  <ul>
+    {%- for dndpage in site.dnd -%}
+    <li>
+      {%- assign date_format = "%Y-%m-%d" -%}
+      <a href="{{ dnpage.url | relative_url }}">{{ dndpage.title | escape }}</a> [ {{ dndpage.date | date: date_format }} ]
+      {{ dndpage.excerpt }}
+    </li>
+    {%- endfor -%}
+  </ul>
+</div>
+{%- endif -%}

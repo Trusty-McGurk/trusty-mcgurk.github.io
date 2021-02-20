@@ -8,6 +8,10 @@ home_page:
 header_pages:
   - about.md
 
+collections:
+  dnd:
+    output: true
+
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
 #style: light # dark (default) or light

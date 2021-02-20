@@ -66,6 +66,7 @@ footer { margin-bottom: 20px; }
 *Post List
 */
 .post_list ul li { margin-top: 18px; margin-bottom: 18px; }
+.dnd_list ul li { margin-top: 18px; margin-bottom: 18px; }
 
 /**
  * Form
@@ -151,3 +152,21 @@ img {
   width: 100%;
   height: auto;
 }
+
+table{
+  //border-collapse: collapse;
+  border-spacing: 20px 10px;
+  //border: var(--border);
+}
+
+/*
+th{
+  //border: var(--border);
+  margin-right: 20px;
+}
+*/
+td{
+  //border: var(--border);
+  border-spacing: 20px;
+}
+

@@ -1,0 +1,849 @@
+I"$><h2 id="general-notes">General Notes</h2>
+
+<p>You may <em>sell</em> used or looted items back to the market for half price.</p>
+
+<p>Items styled with emphasis (e.g. <em>Candle</em>) are considered <em>Non-Encumbering</em> items for encumbrance purposes, although the Referee can rule that quantities of the items do count towards encumbrance. Items styled with double emphasis (e.g. <strong>Barrel</strong>) are considered to be <em>Oversized</em>.</p>
+
+<h2 id="armor">Armor</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>City</th>
+      <th>Rural</th>
+      <th>AC</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Light</td>
+      <td>25 sp</td>
+      <td>50sp</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>Medium</td>
+      <td>100sp</td>
+      <td>–</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Heavy</td>
+      <td>1,000sp</td>
+      <td>–</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Shield</td>
+      <td>10sp</td>
+      <td>25sp</td>
+      <td>-2</td>
+    </tr>
+    <tr>
+      <td>Helmet</td>
+      <td>5sp</td>
+      <td>10sp</td>
+      <td>*</td>
+    </tr>
+    <tr>
+      <td>Barding, light</td>
+      <td>250sp</td>
+      <td>–</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>Barding, medium</td>
+      <td>500sp</td>
+      <td>–</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Barding, heavy</td>
+      <td>1,000sp</td>
+      <td>–</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="weapons">Weapons</h2>
+
+<h3 id="melee">Melee</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Weapon</th>
+      <th>City</th>
+      <th>Rural</th>
+      <th>Special</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lance</td>
+      <td>30sp</td>
+      <td>–</td>
+      <td>charge from horseback</td>
+    </tr>
+    <tr>
+      <td>Polearm</td>
+      <td>30sp</td>
+      <td>–</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Rapier</td>
+      <td>15sp</td>
+      <td>–</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Spear</td>
+      <td>5sp</td>
+      <td>3sp</td>
+      <td>strike from second rank</td>
+    </tr>
+    <tr>
+      <td>Staff</td>
+      <td>5sp</td>
+      <td>3sp</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Weapon, Minor</td>
+      <td>5sp</td>
+      <td>5sp</td>
+      <td>daggers, knives, etc</td>
+    </tr>
+    <tr>
+      <td>Weapon, small</td>
+      <td>10sp</td>
+      <td>10sp</td>
+      <td>short sword, hand axe, etc</td>
+    </tr>
+    <tr>
+      <td>Weapon, medium</td>
+      <td>20sp</td>
+      <td>50sp</td>
+      <td>arming sword, battle axe, mace, flail, etc</td>
+    </tr>
+    <tr>
+      <td>Weapon, great</td>
+      <td>50sp</td>
+      <td>–</td>
+      <td>great axe, longsword, maul, etc</td>
+    </tr>
+    <tr>
+      <td>Whip</td>
+      <td>10sp</td>
+      <td>25sp</td>
+      <td>can entangle</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="ranged">Ranged</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Weapon</th>
+      <th>City</th>
+      <th>Rural</th>
+      <th>Special</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Blowgun</td>
+      <td>5sp</td>
+      <td>–</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Bow, long</td>
+      <td>45sp</td>
+      <td>–</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Bow, short</td>
+      <td>25sp</td>
+      <td>25sp</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Crossbow, heavy</td>
+      <td>30sp</td>
+      <td>–</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Crossbow, light</td>
+      <td>25sp</td>
+      <td>–</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Rock</td>
+      <td>–</td>
+      <td>–</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Sling</td>
+      <td>1sp</td>
+      <td>5cp</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Dart</td>
+      <td>1sp</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Spear</td>
+      <td>5sp</td>
+      <td>3sp</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Other thrown weapons</td>
+      <td>as melee</td>
+      <td>as melee</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="general-equipment">General Equipment</h2>
+
+<h3 id="animals">Animals</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>City</strong></th>
+      <th><strong>Rural</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Carrier Pigeon</td>
+      <td>100sp</td>
+      <td>100sp</td>
+    </tr>
+    <tr>
+      <td>Dog</td>
+      <td>1sp</td>
+      <td>2sp</td>
+    </tr>
+    <tr>
+      <td>Horse, riding</td>
+      <td>100sp</td>
+      <td>100sp</td>
+    </tr>
+    <tr>
+      <td>Horse, war</td>
+      <td>500sp</td>
+      <td>–</td>
+    </tr>
+    <tr>
+      <td>Livestock</td>
+      <td>10sp</td>
+      <td>5sp</td>
+    </tr>
+    <tr>
+      <td>Mule</td>
+      <td>50sp</td>
+      <td>25sp</td>
+    </tr>
+    <tr>
+      <td>Pony</td>
+      <td>75sp</td>
+      <td>50sp</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="containers">Containers</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>City</strong></th>
+      <th><strong>Rural</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>Backpack</em></td>
+      <td>3sp</td>
+      <td>1sp</td>
+    </tr>
+    <tr>
+      <td><strong>Barrel</strong></td>
+      <td>1sp</td>
+      <td>5sp</td>
+    </tr>
+    <tr>
+      <td><strong>Chest</strong></td>
+      <td>10sp</td>
+      <td>5sp</td>
+    </tr>
+    <tr>
+      <td>Pouch</td>
+      <td>5cp</td>
+      <td>1cp</td>
+    </tr>
+    <tr>
+      <td>Quiver</td>
+      <td>5sp</td>
+      <td>10sp</td>
+    </tr>
+    <tr>
+      <td><em>Sack</em></td>
+      <td>5cp</td>
+      <td>2cp</td>
+    </tr>
+    <tr>
+      <td><em>Saddlebag</em></td>
+      <td>1sp</td>
+      <td>5cp</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="vehicles">Vehicles</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>City</strong></th>
+      <th><strong>Rural</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cart</td>
+      <td>50sp</td>
+      <td>25sp</td>
+    </tr>
+    <tr>
+      <td>Coach</td>
+      <td>500sp</td>
+      <td>–</td>
+    </tr>
+    <tr>
+      <td>Wagon</td>
+      <td>150sp</td>
+      <td>75sp</td>
+    </tr>
+    <tr>
+      <td>Chariot</td>
+      <td>250sp</td>
+      <td>–</td>
+    </tr>
+    <tr>
+      <td>Boat, raft</td>
+      <td>5sp</td>
+      <td>5sp</td>
+    </tr>
+    <tr>
+      <td>Boat, canoe</td>
+      <td>30sp</td>
+      <td>25sp</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="food">Food</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>City</strong></th>
+      <th><strong>Rural</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bottle of Wine/Liquor, Poor</td>
+      <td>5cp</td>
+      <td>2cp</td>
+    </tr>
+    <tr>
+      <td>Bottle of Wine/Liquor, Decent</td>
+      <td>&gt; 1sp</td>
+      <td>&gt; 1sp</td>
+    </tr>
+    <tr>
+      <td>Bottle of Wine/Liquor, Rich</td>
+      <td>&gt; 10sp</td>
+      <td>–</td>
+    </tr>
+    <tr>
+      <td>Drink, cheap</td>
+      <td>1cp</td>
+      <td>1cp</td>
+    </tr>
+    <tr>
+      <td>Drink, decent</td>
+      <td>3cp</td>
+      <td>2cp</td>
+    </tr>
+    <tr>
+      <td>Drink, good</td>
+      <td>6cp</td>
+      <td>4cp</td>
+    </tr>
+    <tr>
+      <td>Drink, rich</td>
+      <td>&gt; 15sp</td>
+      <td>&gt; 10sp</td>
+    </tr>
+    <tr>
+      <td>Meal, fancy</td>
+      <td>1sp</td>
+      <td>5cp</td>
+    </tr>
+    <tr>
+      <td>Meal, horrid</td>
+      <td>2cp</td>
+      <td>1cp</td>
+    </tr>
+    <tr>
+      <td>Meal, rich</td>
+      <td>&gt; 15sp</td>
+      <td>&gt; 10sp</td>
+    </tr>
+    <tr>
+      <td>Meal, standard</td>
+      <td>5cp</td>
+      <td>3cp</td>
+    </tr>
+    <tr>
+      <td>Rations, iron per day</td>
+      <td>2sp</td>
+      <td>1sp</td>
+    </tr>
+    <tr>
+      <td>Rations, standard per day</td>
+      <td>1sp</td>
+      <td>5cp</td>
+    </tr>
+    <tr>
+      <td>Feed, animal per day</td>
+      <td>1sp</td>
+      <td>5cp</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="lodging">Lodging</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>City</strong></th>
+      <th><strong>Rural</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Barn</td>
+      <td>–</td>
+      <td>1cp</td>
+    </tr>
+    <tr>
+      <td>Inn, poor</td>
+      <td>1sp</td>
+      <td>5cp</td>
+    </tr>
+    <tr>
+      <td>Inn, average</td>
+      <td>5sp</td>
+      <td>2sp</td>
+    </tr>
+    <tr>
+      <td>Inn, secure</td>
+      <td>10sp</td>
+      <td>5sp</td>
+    </tr>
+    <tr>
+      <td>Inn, fancy</td>
+      <td>&gt; 25sp</td>
+      <td>&gt; 2sp</td>
+    </tr>
+    <tr>
+      <td>Inn, extravagant</td>
+      <td>&gt; 100sp</td>
+      <td>&gt; 25sp</td>
+    </tr>
+    <tr>
+      <td>Rent, 1 month (per 10ft x 10ft square)</td>
+      <td>30sp</td>
+      <td>15sp</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Costs are per day, unless noted. The cost to buy instead of rent is one hundred times the listed monthly rental price.</p>
+
+<h3 id="miscellaneous">Miscellaneous</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>City</strong></th>
+      <th><strong>Rural</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>Air bladder</em></td>
+      <td>1sp</td>
+      <td>1sp</td>
+    </tr>
+    <tr>
+      <td>Bedroll</td>
+      <td>2sp</td>
+      <td>1sp</td>
+    </tr>
+    <tr>
+      <td>Block &amp; tackle</td>
+      <td>2sp</td>
+      <td>3sp</td>
+    </tr>
+    <tr>
+      <td>Book, blank</td>
+      <td>5sp</td>
+      <td>10sp</td>
+    </tr>
+    <tr>
+      <td>Book, reading</td>
+      <td>10sp</td>
+      <td>20sp</td>
+    </tr>
+    <tr>
+      <td>Book, spell (blank)</td>
+      <td>100sp</td>
+      <td>–</td>
+    </tr>
+    <tr>
+      <td>Caltrop</td>
+      <td>5cp</td>
+      <td>–</td>
+    </tr>
+    <tr>
+      <td><em>Candle</em></td>
+      <td>1cp</td>
+      <td>1cp</td>
+    </tr>
+    <tr>
+      <td>Chain, per foot</td>
+      <td>1sp</td>
+      <td>2sp</td>
+    </tr>
+    <tr>
+      <td><em>Chalk</em></td>
+      <td>1cp</td>
+      <td>1cp</td>
+    </tr>
+    <tr>
+      <td>Clothing, extravagant</td>
+      <td>&gt; 20sp</td>
+      <td>–</td>
+    </tr>
+    <tr>
+      <td><em>Clothing, normal</em></td>
+      <td>5sp</td>
+      <td>2sp</td>
+    </tr>
+    <tr>
+      <td><em>Clothing, poor</em></td>
+      <td>1sp</td>
+      <td>5cp</td>
+    </tr>
+    <tr>
+      <td>Clothing, winter travel</td>
+      <td>10sp</td>
+      <td>5sp</td>
+    </tr>
+    <tr>
+      <td>Cooking pots</td>
+      <td>1sp</td>
+      <td>5cp</td>
+    </tr>
+    <tr>
+      <td>Crampons</td>
+      <td>5sp</td>
+      <td>5sp</td>
+    </tr>
+    <tr>
+      <td>Crowbar</td>
+      <td>2sp</td>
+      <td>2sp</td>
+    </tr>
+    <tr>
+      <td>Drill</td>
+      <td>5sp</td>
+      <td>5sp</td>
+    </tr>
+    <tr>
+      <td>Fishing gear</td>
+      <td>1sp</td>
+      <td>1sp</td>
+    </tr>
+    <tr>
+      <td>Flask of lamp oil</td>
+      <td>2sp</td>
+      <td>2sp</td>
+    </tr>
+    <tr>
+      <td><em>Garlic</em></td>
+      <td>3cp</td>
+      <td>1cp</td>
+    </tr>
+    <tr>
+      <td><em>Gem</em></td>
+      <td>&gt; 5sp</td>
+      <td>&gt; 5sp</td>
+    </tr>
+    <tr>
+      <td>Grappling hook</td>
+      <td>5sp</td>
+      <td>10sp</td>
+    </tr>
+    <tr>
+      <td><em>Holy symbol, silver</em></td>
+      <td>25sp</td>
+      <td>50sp</td>
+    </tr>
+    <tr>
+      <td><em>Holy symbol, steel</em></td>
+      <td>10sp</td>
+      <td>10sp</td>
+    </tr>
+    <tr>
+      <td><em>Holy symbol, wood</em></td>
+      <td>1sp</td>
+      <td>1cp</td>
+    </tr>
+    <tr>
+      <td>Holy water</td>
+      <td>25sp</td>
+      <td>25sp</td>
+    </tr>
+    <tr>
+      <td>Hourglass</td>
+      <td>100sp</td>
+      <td>–</td>
+    </tr>
+    <tr>
+      <td><em>Ink</em></td>
+      <td>1cp</td>
+      <td>5cp</td>
+    </tr>
+    <tr>
+      <td>Instrument, musical</td>
+      <td>&gt; 1sp</td>
+      <td>&gt; 5sp</td>
+    </tr>
+    <tr>
+      <td><em>Jewelry</em></td>
+      <td>&gt; 10sp</td>
+      <td>&gt; 10sp</td>
+    </tr>
+    <tr>
+      <td><strong>Ladder, 10’</strong></td>
+      <td>10sp</td>
+      <td>7sp</td>
+    </tr>
+    <tr>
+      <td>Lantern</td>
+      <td>3sp</td>
+      <td>5sp</td>
+    </tr>
+    <tr>
+      <td>Lard</td>
+      <td>1cp</td>
+      <td>1cp</td>
+    </tr>
+    <tr>
+      <td>Lock</td>
+      <td>7sp</td>
+      <td>10sp</td>
+    </tr>
+    <tr>
+      <td>Mallet</td>
+      <td>3cp</td>
+      <td>3cp</td>
+    </tr>
+    <tr>
+      <td>Manacles</td>
+      <td>10sp</td>
+      <td>15sp</td>
+    </tr>
+    <tr>
+      <td><em>Map, local</em></td>
+      <td>1sp</td>
+      <td>5sp</td>
+    </tr>
+    <tr>
+      <td>Mirror, glass</td>
+      <td>10sp</td>
+      <td>15sp</td>
+    </tr>
+    <tr>
+      <td><em>Mirror, silver</em></td>
+      <td>30sp</td>
+      <td>–</td>
+    </tr>
+    <tr>
+      <td><em>Mirror, steel</em></td>
+      <td>1sp</td>
+      <td>5sp</td>
+    </tr>
+    <tr>
+      <td><em>Nails</em></td>
+      <td>1cp</td>
+      <td>2cp</td>
+    </tr>
+    <tr>
+      <td><em>Paper</em></td>
+      <td>2cp</td>
+      <td>2cp</td>
+    </tr>
+    <tr>
+      <td>Pick, miner’s</td>
+      <td>6sp</td>
+      <td>12sp</td>
+    </tr>
+    <tr>
+      <td><em>Pipe</em></td>
+      <td>1sp</td>
+      <td>5cp</td>
+    </tr>
+    <tr>
+      <td><strong>Pole, 10’</strong></td>
+      <td>1sp</td>
+      <td>5cp</td>
+    </tr>
+    <tr>
+      <td><strong>Riding gear</strong></td>
+      <td>25sp</td>
+      <td>10sp</td>
+    </tr>
+    <tr>
+      <td>Rope, 50’</td>
+      <td>3sp</td>
+      <td>3sp</td>
+    </tr>
+    <tr>
+      <td>Scroll case</td>
+      <td>1sp</td>
+      <td>3sp</td>
+    </tr>
+    <tr>
+      <td>Shovel</td>
+      <td>3sp</td>
+      <td>3sp</td>
+    </tr>
+    <tr>
+      <td><em>Soap</em></td>
+      <td>1cp</td>
+      <td>1cp</td>
+    </tr>
+    <tr>
+      <td>Specialist’s tools</td>
+      <td>50sp</td>
+      <td>–</td>
+    </tr>
+    <tr>
+      <td><em>Spike, iron</em></td>
+      <td>3cp</td>
+      <td>5cp</td>
+    </tr>
+    <tr>
+      <td><em>Spike, wooden</em></td>
+      <td>1cp</td>
+      <td>1cp</td>
+    </tr>
+    <tr>
+      <td>Spyglass</td>
+      <td>250sp</td>
+      <td>–</td>
+    </tr>
+    <tr>
+      <td><strong>Tent, grand</strong></td>
+      <td>25sp</td>
+      <td>–</td>
+    </tr>
+    <tr>
+      <td><strong>Tent, pavilion</strong></td>
+      <td>50sp</td>
+      <td>–</td>
+    </tr>
+    <tr>
+      <td><strong>Tent, personal</strong></td>
+      <td>5sp</td>
+      <td>10sp</td>
+    </tr>
+    <tr>
+      <td><strong>tent, regular</strong></td>
+      <td>10sp</td>
+      <td>20sp</td>
+    </tr>
+    <tr>
+      <td><em>Tinderbox</em></td>
+      <td>1sp</td>
+      <td>5sp</td>
+    </tr>
+    <tr>
+      <td>Tobacco</td>
+      <td>1sp</td>
+      <td>5cp</td>
+    </tr>
+    <tr>
+      <td>Torches (bundle of 8)</td>
+      <td>1cp</td>
+      <td>1cp</td>
+    </tr>
+    <tr>
+      <td><em>Vial or bottle, empty</em></td>
+      <td>5cp</td>
+      <td>7cp</td>
+    </tr>
+    <tr>
+      <td>Waterskin</td>
+      <td>1sp</td>
+      <td>1sp</td>
+    </tr>
+    <tr>
+      <td><em>Whistle</em></td>
+      <td>1sp</td>
+      <td>1sp</td>
+    </tr>
+    <tr>
+      <td><em>Wolvesbane</em></td>
+      <td>1sp</td>
+      <td>1cp</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Open Market</strong> by Andrew Codispoti is ©2019. It can be found at <a href="https://rpg.acodispo.net/posts/open-market/">https://rpg.acodispo.net/posts/open-market/</a> with source files at <a href="https://gitlab.com/acodispo/open-market/">https://gitlab.com/acodispo/open-market/</a></p>
+
+<p>The following equipment price tables &amp; accompanying explanatory text are Open Game Content under the terms of the Open Game License 1.0a, which should be distributed with this content, either at the end of a generated document (such as PDF, HTML, or ODT), or as an accompanying LICENSE.md, and which is always available at <a href="https://gitlab.com/acodispo/open-market/blob/master/LICENSE.md">LICENSE.md</a>.</p>
+
+:ET

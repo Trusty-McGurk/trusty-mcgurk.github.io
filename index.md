@@ -1,7 +1,7 @@
 ---
 menu-name: root@mcgurk:/#
 title: trusty-mcgurk's site
-layout: home
+layout: dnd-home
 permalink: /
 ---
 
